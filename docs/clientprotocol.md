@@ -3,7 +3,7 @@ id: clientprotocol
 title: NKN Client Protocol
 ---
 
-NKN client can be written in any language as long as the following protocol is implemented.
+NKN client can be written in any language as long as the following protocol is implemented.11111
 
 # Client NKN address
 
