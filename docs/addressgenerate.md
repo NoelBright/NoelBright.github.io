@@ -3,6 +3,7 @@ id: addressgenerate
 title: Address Generation Theory
 ---
 
+hello
 | Prefix | Uint160 | Uint32
 | ------ | ------ | ------ |
 | Fool-proof design | 160 bits Hash of RedeemScript| Checksum |
