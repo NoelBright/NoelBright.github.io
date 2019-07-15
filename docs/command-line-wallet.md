@@ -1,6 +1,6 @@
 ---
-id: commandlinetool
-title: Command Line Wallet 
+id: command-line-wallet 
+title: Command Line Wallet
 ---
 
 nknc is a command line tool for nknd.

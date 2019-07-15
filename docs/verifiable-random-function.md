@@ -1,5 +1,5 @@
 ---
-id: vrf
+id: verifiable-random-function
 title: Verifiable Random Function
 ---
 

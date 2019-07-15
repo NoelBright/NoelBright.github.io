@@ -32,7 +32,7 @@ class Footer extends React.Component {
             alt="Bowler"
             height="45"
             />
-          <a href={'https://nkn.org'}>
+          <a href={this.props.config.nknWebsetUrl}>
             NKN
           </a>
           <a href={'https://twitter.com/' + this.props.config.twitterUsername}>
@@ -41,7 +41,7 @@ class Footer extends React.Component {
           <a href={this.props.config.repoUrl}>
             GitHub
           </a>
-          <a href={'https://forum.nkn.org'}>
+          <a href={this.props.config.nknForumUrl}>
             Forum
           </a>
         </section>

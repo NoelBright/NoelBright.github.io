@@ -1,5 +1,5 @@
 ---
-id: websocketapi
+id: websocket-api-reference
 title: Websocket API Reference
 ---
 

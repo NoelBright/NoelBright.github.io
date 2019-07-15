@@ -1,5 +1,5 @@
 ---
-id: jsonrpcapi
+id: jsonrpc-api-reference
 title: JsonRPC API Reference
 ---
 

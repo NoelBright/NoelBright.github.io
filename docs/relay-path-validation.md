@@ -1,5 +1,5 @@
 ---
-id: pathvalidation
+id: relay-path-validation
 title: Relay Path Validation
 ---
 

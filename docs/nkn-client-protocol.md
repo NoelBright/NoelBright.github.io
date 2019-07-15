@@ -1,5 +1,5 @@
 ---
-id: clientprotocol
+id: nkn-client-protocol
 title: NKN Client Protocol
 ---
 

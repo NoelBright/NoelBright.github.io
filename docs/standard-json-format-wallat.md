@@ -1,5 +1,5 @@
 ---
-id: walletformat
+id: standard-json-format-wallat
 title: Standard JSON-format Wallat
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: addressgenerate
+id: address-generation-theory
 title: Address Generation Theory
 ---
 

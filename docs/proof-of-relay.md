@@ -1,5 +1,5 @@
 ---
-id: por
+id: proof-of-relay
 title: Proof of Relay (PoR)
 ---
 

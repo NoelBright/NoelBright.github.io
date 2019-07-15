@@ -1,5 +1,5 @@
 ---
-id: introduction
+id: introduction-to-nkn
 title: Introduction to NKN
 ---
 

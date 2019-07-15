@@ -1,5 +1,5 @@
 ---
-id: ddtn
+id: distributed-data-transmission-network
 title: Distributed Data Transmission Network (DDTN)
 ---
 

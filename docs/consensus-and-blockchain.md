@@ -1,5 +1,5 @@
 ---
-id: consensusblockchain
+id: consensus-and-blockchain
 title: Consensus and Blockchain
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: nknaddress
+id: nkn-address-scheme
 title: NKN Address Scheme
 ---
 
